@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sports Articles Demo</string>
+    <string name="api_key">fde518d2f87f4bbabd7e755472e03ba3</string>
+    <string name="sports_article">Sports Articles</string>
+    <string name="article_details">Article Details</string>
+    <string name="image_hin">Supposed there is an Image</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="content">Content</string>
+    <string name="url">URL</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="email_me">Email Me</string>
+    <string name="call_me">Call Me</string>
+    <string name="made_for"> Made For ATS </string>
+    <string name="developed_by">Developed By Abdulrahman Gharaibeh</string>
+
+</resources>
