@@ -13,6 +13,8 @@ The App uses a punch of android technology
   <li> Glide </li>
 </ol>
 And other Stuff , hope you like it <br> 
-And if you have any recommendation or issue feel free to open an issue or email me.
 
 <img src="/demo.gif?raw=true" width="200px">
+
+And if you have any recommendation or issue feel free to open an issue or email me.
+
