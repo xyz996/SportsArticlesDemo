@@ -16,5 +16,4 @@ And other Stuff
 hope you like it 
 And if you have any recommendation or issue feel free to open an issue or email me.
 
-
-<img src="http://alajust-001-site1.forbestsoft.com/demo.gif" title="DEMO"/>
+<img src="/demo.gif?raw=true" width="200px">
