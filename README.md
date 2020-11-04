@@ -2,7 +2,7 @@
 This is a Demo Sports Articles App
 
 This App is basically read data from https://newsapi.org/s/uk-sports-news-api API
-Display it in recycler view and shows the article details by clicking on article item
+And display it in recycler view and shows the article details by clicking on article item
 
 The App uses a punch of android technology
 
