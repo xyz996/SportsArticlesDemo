@@ -6,7 +6,7 @@ And display it in recycler view and shows the article details by clicking on art
 The App uses a punch of android technology
 </p>
 <ol>
-  <li>  MVVM Design Patten </li>
+  <li>  MVVM Design Pattern </li>
   <li> Dagger Hilit (DI) </li>
   <li> Retrofit </li>
   <li> RxJava </li>
