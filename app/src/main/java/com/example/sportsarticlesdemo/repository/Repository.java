@@ -10,7 +10,7 @@ import io.reactivex.rxjava3.core.Observable;
 
 public class Repository {
     private SportsArticlesAPIService service;
-   public static final String API_KEY = "fde518d2f87f4bbabd7e755472e03ba3"; //Or use Your api key
+   public static final String API_KEY = ""; // Your API_KEY 
 
     @Inject
     public Repository(SportsArticlesAPIService service) {
